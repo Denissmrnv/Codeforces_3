@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\_Stidy_RSATU\Tasks\Project2\Project2\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\_Stidy_RSATU\Tasks\Project2\Project2\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Project2.vcxproj -> D:\_Stidy_RSATU\Tasks\Project2\x64\Debug\Project2.exe
